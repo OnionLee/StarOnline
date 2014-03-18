@@ -24,6 +24,8 @@ int _tmain(int argc, _TCHAR* argv[])
 		return -1;
 	}
 
+int b = 0;
+
 	return 0;
 }
 
