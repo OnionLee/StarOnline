@@ -41,6 +41,8 @@ void GameLoop::update()
 	//플레이어 키 입력
 	playerMove();
 
+int a =0;
+
 	//플레이어들 업데이트
 	m_pPlayer->update();
 	m_pPlayer->render();
